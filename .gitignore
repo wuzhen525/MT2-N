@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.npz
+*.npy
+*.log
+logs/
+data/*/
+!data/build_item_meta.py
+!data/README.md
+.DS_Store
